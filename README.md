@@ -111,6 +111,8 @@ MCP-Server(self-hosted): https://mcp.od2og.africa/mcp
 
 Smithery: [![smithery badge](https://smithery.ai/badge/constitutionat30/rsa)](https://smithery.ai/servers/constitutionat30/rsa)
 
+https://smithery.ai/servers/constitutionat30/rsa
+
 Maintainer: Beki Ndlovu
 Contact: bekisesa@gmail.com
 
